@@ -23,3 +23,4 @@ This repo contains the code and notebooks accompanying the paper 'An information
 
 ## References 
 
+Dam, A., Gomez-Lievano, A., Neffke, F., & Frenken, K. (2023). An information-theoretic approach to the analysis of location and colocation patterns. Journal of Regional Science, 63, 173– 213. https://doi.org/10.1111/jors.12621
